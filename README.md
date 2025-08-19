@@ -5,6 +5,7 @@ PocketTasks is a cleanly architected Flutter application for managing daily task
 ## Features
 
 - **Add Tasks:** Quickly add new tasks with validation to prevent empty entries.
+- **Delete Tasks:** Just Swipe right to delete any task.
 - **Search & Filter:** Search tasks by title with a debounced search box and filter tasks by All, Active, or Done status.
 - **Task Management:** Toggle task completion with undo functionality, and swipe to delete tasks with undo support.
 - **Persistent Storage:** Tasks are stored locally using Shared Preferences as JSON, ensuring data persistence between app restarts.
